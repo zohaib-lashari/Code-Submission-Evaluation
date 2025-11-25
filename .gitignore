@@ -1,0 +1,5 @@
+# Ignore temporary or placeholder files
+*next*pname*.cpp
+
+# Ignore executables
+*.exe
